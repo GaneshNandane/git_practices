@@ -1,3 +1,3 @@
-# created my first program hello world 
+# created my first program hello git 
 
-print("hello world !")
+print("hello git !")
